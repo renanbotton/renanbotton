@@ -1,6 +1,6 @@
 #Sobre mim
 - 👋 Olá eu sou @renanbotton
-- meu email de contato é renan.muniz@escola.pr.gov.br
+- 👀meu email de contato é renan.muniz@escola.pr.gov.br
 - 👀 eu estou interessado em aprender a progamar novas  linguagens.
 - 🌱 eu estou aprendendo a progamar recentemente a linguagem de JavaScript e Scratch
 
