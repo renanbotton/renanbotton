@@ -3,7 +3,8 @@
 - 👀meu email de contato é renan.muniz@escola.pr.gov.br
 - 👀 eu estou interessado em aprender a progamar novas  linguagens.
 - 🌱 eu estou aprendendo a progamar recentemente a linguagem de JavaScript e Scratch
-
+ ![texto](link da imagem) 
+ 
 
 <!---
 renanbotton/renanbotton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
