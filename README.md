@@ -3,7 +3,7 @@
 - 👀meu email de contato é renan.muniz@escola.pr.gov.br
 - 👀 eu estou interessado em aprender a progamar novas  linguagens.
 - 🌱 eu estou aprendendo a progamar recentemente a linguagem de JavaScript e Scratch
- ![texto](link da imagem) 
+ ![gosto de desenhos](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fsidpositividade%2F&psig=AOvVaw2wOYVDJq2mKRo1glzArMwR&ust=1663874852482000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIi31oTPpvoCFQAAAAAdAAAAABAD) 
  
 
 <!---
